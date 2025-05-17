@@ -1,0 +1,30 @@
+# Node modules (dependencies)
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Build outputs (Vite or any build system)
+dist/
+client/dist/
+server/dist/
+
+# Logs
+*.log
+
+# OS-generated files
+.DS_Store
+
+# Vite cache
+.vite/
+
+# Environment variables
+.env
+.env.*   # e.g., .env.development, .env.local
+
+# Docker stuff (optional if not needed in Git)
+*.local
+docker-compose.override.yml
+
+# IDE settings (optional)
+.vscode/
+.idea/
