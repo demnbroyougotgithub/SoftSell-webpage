@@ -14,8 +14,7 @@ A modern, responsive website to showcase SoftSell – a fictional license resale
 - How it Works steps
 - Why Choose Us section
 - Testimonials
-- Lead contact form
-- AI chat box (mocked)
+- Lead contact form 
 - SEO + responsive
 
 ## ⚙️ Running the Project
