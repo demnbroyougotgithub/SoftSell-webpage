@@ -6,8 +6,7 @@ A modern, responsive website to showcase SoftSell – a fictional license resale
 
 - React + Vite
 - Bootstrap 5
-- Docker (for deployment)
-- Bonus: AI Chat Widget (LLM)
+- Docker (for deployment) 
 
 ## 📦 Features
 
