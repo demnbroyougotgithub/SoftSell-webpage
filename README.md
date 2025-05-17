@@ -23,3 +23,6 @@ A modern, responsive website to showcase SoftSell – a fictional license resale
 
 1. Install Docker
 2. Build and start with:
+   open the client folder in terminal.
+   Run the following command "npm install".
+   After that run "npm run dev".
